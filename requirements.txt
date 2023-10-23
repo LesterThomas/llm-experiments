@@ -1,0 +1,10 @@
+openai
+streamlit
+pandas
+numpy
+nomic
+matplotlib
+plotly
+scipy
+scikit-learn
+python-dotenv
